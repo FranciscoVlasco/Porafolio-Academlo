@@ -124,6 +124,7 @@ header nav a:first-child{
 }
 @media (max-width:480px){
   .perfil-mobile{
+    height: 340px;
     position: absolute;
     display: flex;
     align-items: center;
