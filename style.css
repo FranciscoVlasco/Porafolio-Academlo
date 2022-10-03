@@ -239,7 +239,7 @@ header nav a:first-child{
 }
 @media (max-width:480px){
   .redessociales{
-    width: 60vw;
+    width: 50vw;
     height: 16%;
     display: flex;
     gap: 10%;
