@@ -24,7 +24,7 @@ body{
 @media (max-width:480px){
   .generalheader{
     width: 100vw;
-    height: 105vh;
+    height: 110vh;
     background-color: var(--color-font-principal);
 }
 }
